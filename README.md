@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Davepe10
 - 👀 Me interesa la programación, el desarrollo web y la ciencia de datos.
-- 🌱 Actualmente estoy aprendiendo sobre inteligencia artificial y machine learning.
+- 🌱 Actualmente estoy aprendiendo sobre desarrollo de software y ciencia de  datos.
 - 💞️ Estoy buscando colaborar en proyectos emocionantes y desafiantes.
 - 📫 Puedes contactarme a través de mi correo electrónico [@email.com] o en [LinkedIn](www.linkedin.com/in/javier-alexander-piscoya-tenorio).
 - 
